@@ -1,0 +1,53 @@
+{
+    "1": {
+      "id": 1,
+      "name": "Remera blanca",
+      "price": 1500
+    },
+    "2": {
+      "id": 2,
+      "name": "Remera Negra",
+      "price": 1500
+    },
+    "3": {
+        "id": 3,
+        "name": "Remera Roja",
+        "price": 1500
+      },
+      "4": {
+        "id": 4,
+        "name": "Remera Azul",
+        "price": 1500
+      },
+      "5": {
+        "id": 5,
+        "name": "Remera Verde",
+        "price": 1500
+      },
+      "6": {
+        "id": 6,
+        "name": "Remera Amarilla",
+        "price": 1500
+      },
+      "7": {
+        "id": 7,
+        "name": "Remera Rosa",
+        "price": 1500
+      },
+      "8": {
+        "id": 8,
+        "name": "Remera Gris",
+        "price": 1500
+      },
+      "9": {
+        "id": 9,
+        "name": "Remera Naranja",
+        "price": 1500
+      },
+      "10": {
+        "id": 10,
+        "name": "Remera Morada",
+        "price": 1500
+      }
+  }
+  
